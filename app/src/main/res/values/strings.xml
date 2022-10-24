@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SPOTIFY</string>
+    <string name="tab_hogar">HOGAR</string>
+    <string name="tab_favoritos">FAVORITOS</string>
+    <string name="tab_musica">MUSICA</string>
+    <string name="tab_peliculas">PELICULAS</string>
+</resources>
